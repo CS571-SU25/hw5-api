@@ -1,0 +1,434 @@
+[
+  {
+    "id": "46084767",
+    "name": "Athena",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "5 years 5 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "ea0c0b1e-5560-4711-8157-c70b2e46efa3.jpg",
+      "46520cc5-8179-481d-9cdf-8da7839a5e34.jpg"
+    ],
+    "description": "Hey there, I'm Athena! I'm a friendly lady who can't wait to find my new home! I can sometimes be a little shy and overwhelmed with change (meeting new people, going to new places, adjusting to new routines), once I warm up and I'm comfortable, I'm the sweetest lady! I'm a professional cuddler (just ask my foster mom), and I really prefer to have your attention all to myself, so I'll have to go to a home where I can be an only child. If I sound like the cat for you, apply to meet Athena!"
+  },
+  {
+    "id": "57877614",
+    "name": "Brian",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 months  1 day",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "51d4926f-d03e-4836-9712-525e3a07d908.jpg"
+    ]
+  },
+  {
+    "id": "57753603",
+    "name": "Bridget",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 21 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Grey",
+      "Buff"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "56fe84d7-5886-4018-8b80-01fa4fa7347a.jpg",
+      "6e05c200-3878-4cce-9f8c-e04523481a19.jpg",
+      "f60cf441-bb83-4fb4-80e4-741a0c2395b9.jpg"
+    ],
+    "description": "Hey there, my name is Bridget! I'm a teeny tiny little lady who is so excited to meet my new family! When I first meet new people, I can be pretty shy. But once you offer me a few pets, then you become my new best friend! I'm previously from a living situation of a LOT of other cats, so I've never lived as an only cat before. Because I'm so small and nervous about change, meeting new cats really quickly can be a little overwhelming for me. But with slow intros, having other cats around actually helps me to relax more. My eyes look a little dark because I have ulcers in my eyes, but I can still see for the most part and I'm not in any pain. If you're willing to give a chance to this small lady, apply to meet Bridget!SPECIAL NOTES: I have corneal ulcers in both of my eyes, but I can still see."
+  },
+  {
+    "id": "51204974",
+    "name": "Cider",
+    "breed": "Domestic Medium Hair/Mix",
+    "age": "2 years 6 months 29 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "d9280e81-19d3-408c-8307-e9727c65b6bb.jpg",
+      "185393b4-75dd-42c4-9551-47859937bd5d.jpg",
+      "a82a0dd2-ed3c-4e61-8f89-2aecfa3e8c37.jpg"
+    ],
+    "description": "Hi, I'm Cider! I'm a sweet floofy woman who is ready for my perfect family! I can be a little shy when I first meet new people, but I'm getting better at warming up to new human friends a little more quickly! I'm a lot more comfortable with other cats than people, so I'd probably be happiest with a cat-social buddy or 2. I'm still a young lady, so I love to play and zoom around - I'm your gal if you're looking for a play buddy! If you're willing to give a timid girl a chance, apply to meet with Cider!SPECIAL NOTES: I have a 2/6 grade heart murmur, and my eyes can get a little runny."
+  },
+  {
+    "id": "57730544",
+    "name": "Da Vinci",
+    "breed": "Domestic Longhair/Maine Coon",
+    "age": "8 years  1 day",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "4e013e5e-265b-4866-9280-48940ce59271.jpg",
+      "c779b516-43ce-4d8a-b6ba-0ad7d1255716.jpg",
+      "9c68e9bd-f0c4-4463-8076-f2bb1bfd03f4.jpg"
+    ]
+  },
+  {
+    "id": "57790168",
+    "name": "Daisy",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "9 years 16 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "8a98a887-e0e0-47de-8014-d752e85b3179.jpg"
+    ],
+    "description": "SPECIAL NOTES: I may be partially or entirely deaf!"
+  },
+  {
+    "id": "57836674",
+    "name": "General",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "4 years 8 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Grey",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "0bfe4a47-572a-4073-8753-23e26256ce5c.jpg",
+      "449c5e35-8785-48ab-9cf2-b69b4a687308.jpg"
+    ],
+    "description": "Hey there, I'm General! I'm a shy but sweet man who is ready to find my new family! I can be shy when I'm meeting new people, but having brave cat buddies around makes me a lot more comfortable around humans; because of this, I'll need to go to a home with a similar-aged buddy for me to become besties with! Aside from being a little shy, I'm a pretty laid-back guy who loves a good nap in a cozy spot. If I sound like the man for you, apply to meet General!"
+  },
+  {
+    "id": "57790087",
+    "name": "Jo-Jo",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 15 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "207406bf-d31d-42ed-aa2c-61dbbc8c6815.jpg"
+    ],
+    "description": "Hi there, I'm Jo-Jo! I'm a shy but very sweet little lady who can't wait to find her new home. I can be pretty scared when I meet new people and move to new environments, but being around other cats seems to help me feel a little more relaxed. Because of this, I'll need to go to a home where there's a similar-aged cat buddy for me to be friends with. I really do like pets from humans, my new family will just need to understand that I can be really shy at first and that I just need time to adjust before they see my true personality. If you're willing to give this nervous girl a shot, apply to meet Jo-Jo!"
+  },
+  {
+    "id": "57711258",
+    "name": "Judith",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "8 months 27 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Grey",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "38b03b5c-095f-426a-aaeb-0665e4072920.jpg",
+      "50cf8429-2e6d-49ff-9672-685dee80589d.jpg",
+      "f3d1b6fa-5d34-41df-9760-a4c76593d560.jpg"
+    ],
+    "description": "Hey party people, I'm Judith! I'm a crazy little girl who is ready to find my perfect home! I want you to imagine how crazy and playful kittens can be, and then multiply that times 10 and that's me! I feel feelings a bit more than your typical cat, so when I feel playful I'm CRAZY and when I feel annoyed about something, oh you'll hear about it for sure. But when I'm feeling snuggly, oh man I want to rub my body all over your head and lick your face to show how happy I am. Meeting new cats makes me pretty cranky pretty fast, so I'll need a special family who is ready to take on Judith all on their own! If you're interested in meeting this chaos queen, apply to meet Judith!SPECIAL NOTES: I was born without upper eyelids, so I had surgery to create new ones, leading my eye holes to look smaller than normal."
+  },
+  {
+    "id": "57603684",
+    "name": "Kellog",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 years  1 month 12 days",
+    "gender": "Male",
+    "size": "Large",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "afbe8a1f-7797-4c56-bd42-353c54c2f2b7.jpg",
+      "10566f85-4bb7-42d8-83d5-8ce91e7b536a.jpg",
+      "7a0fd4e8-a5d4-4d63-8c30-47a03c60c07a.jpg"
+    ],
+    "description": "Hi friends, I'm Kellog! I'm a shy but sweet man who is so excited to find my new home! I can be nervous when I'm first meeting new people, but after a few pets, I'll come out of my hidey spot and you'll see how big I am! But I promise, I'm a gentle giant. Because humans make me a little anxious, having other cat friends around makes me feel more confident, so I'll need to go to a home with a similar-aged cat buddy to help me feel more comfortable. If I sound like the guy for you, apply to meet Kellog!"
+  },
+  {
+    "id": "57790066",
+    "name": "Komi",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 14 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "5086e8bb-e156-4b66-9ba7-8c70cee9aa20.jpg",
+      "db3500c2-c8ae-4ac0-bbf5-a0a19800e1f8.jpg",
+      "880a2da6-d25a-411c-99a8-cf685b24e253.jpg"
+    ],
+    "description": "Hi friends, I'm Komi! I'm a friendly little lady who is excited to make your acquaintance! I love meeting new people, because strangers are just friends you haven't made yet! I don't mind sharing space with other cats, but I'll definitely need slow intros to any new friends because new cats trying to be my BFF right away stresses me out. I'd also be fine living on my own, I'm just a young lady so if I'm living alone with my new family, they'll need to play \"kitten\" with me and help me burn my playful energy. If I sound like the cat for you, apply to meet with Komi!"
+  },
+  {
+    "id": "57302881",
+    "name": "Laverne",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "9 months  1 day",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown",
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "56ccc8ec-ee24-4ea9-9ad3-3c38bc53e8bd.jpg",
+      "c9af4628-c65b-43b2-8a84-5abf1fc88975.jpg",
+      "4f00cb6d-8318-4266-947e-1f2c6d186fea.jpg"
+    ],
+    "description": "Laverne can be a bit nervous when meeting new people, but when she feels comfortable she will love to play with you and is also quite the cuddler! She is also very food motivated so giving her some tasty wet food is an easy way to earn her trust. She is braver and more confident when there is another cat around, so she will need to be adopted with her friend OJ. If you want to meet Laverne and OJ, apply today!SPECIAL NOTES: I need to be adopted with my friend OJ."
+  },
+  {
+    "id": "57730536",
+    "name": "Lily Bell",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "13 years 8 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "5567472f-0342-4f7c-8153-52bd55f29b18.jpg",
+      "df9fe36b-acb2-4d78-aa9a-1d0baf663855.jpg"
+    ],
+    "description": "SPECIAL NOTES: I'm deaf, I have heart disease I'll need daily medication for, and I'm recovering from a URI."
+  },
+  {
+    "id": "57877596",
+    "name": "Lois",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 months  1 day",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "444f46b9-863c-4602-b5a5-9dd20a79e708.jpg",
+      "38716911-5acd-44fe-b88c-5d265c68e793.jpg"
+    ]
+  },
+  {
+    "id": "57334657",
+    "name": "Marmot",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "5 months 16 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "96875a56-86bc-4cce-a9e7-b22b5e542c3f.jpg",
+      "3d409a66-6a63-4760-a3b7-5310a43a6586.jpg"
+    ],
+    "description": "From my foster: \"Has a clear love language and it is food as she prances like a deer and squeaks with delight at meal times. She has the softest fur of the bunch and loves to snuggle with Spyder.\"SPECIAL NOTES: I'm bonded to my sister, Spyder!"
+  },
+  {
+    "id": "57877589",
+    "name": "Meg",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 months  1 day",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "000379df-f842-415f-945b-837ed52cdb8f.jpg",
+      "78af0ea2-eb06-4bc5-87d1-1b7f4a382360.jpg"
+    ]
+  },
+  {
+    "id": "57877535",
+    "name": "Nort",
+    "breed": "Domestic Medium Hair/Mix",
+    "age": "2 years  1 day",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "c37877e5-0ef7-4b0d-b1ad-e39d0ad9ce2d.jpg",
+      "99efc7d8-9b22-4c92-a682-0d3a125635dc.jpg"
+    ]
+  },
+  {
+    "id": "57302898",
+    "name": "OJ",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "9 months  1 day",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Orange",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "2084f7bd-424d-417f-9d13-fb996a7906fb.jpg",
+      "a761b26b-6f06-4613-8149-8f859d2bf342.jpg",
+      "1f45e613-5e5c-4af1-bc3d-ffd4fb4eb936.jpg"
+    ],
+    "description": "OJ can be nervous when meeting new people, but she is very food motivated and really loves to play so these are things to help her feel more comfortable around you. She has gotten more comfortable being touched and held since being in her foster home. She has the softest fur! She does feel a lot more brave and confident when there is another cat around, so she will need to be adopted with her friend, Laverne. If you want to meet OJ and Laverne, apply to meet them today!SPECIAL NOTES: I need to be adopted with my friend Laverne."
+  },
+  {
+    "id": "57877622",
+    "name": "Peter",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 months  1 day",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Black"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "666c5e92-2db3-4b48-8da4-74a84fed5728.jpg"
+    ]
+  },
+  {
+    "id": "57603567",
+    "name": "Prince Charming",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "9 months 11 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Grey"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "e0c609ad-b1a3-4122-a971-94e6209bf909.jpg",
+      "73c4a6a6-6603-49d8-88a6-e76b33bcada0.jpg"
+    ],
+    "description": "SPECIAL NOTES: I'm on a prescription GI diet and taking medication to help my stomach feel better! I will likely need to continue eating this food and taking my medication indefinitely."
+  },
+  {
+    "id": "57700970",
+    "name": "Ryder",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year 28 days",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Grey"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "021aed11-c164-48ee-a8ca-25f34ab98f9f.jpg",
+      "ebc0c64d-74bd-4359-80c3-2c178b444a80.jpg",
+      "f0f38079-a7b7-484a-9bdb-491fedaf6945.jpg"
+    ],
+    "description": "Hey there, I'm Ryder! I'm a rambunctious guy who is ready for my new home! I'm pretty young still, so I'm pretty active and playful. My feelings are a little bit bigger than your \"typical\" cat, but that doesn't mean I'm not a fun guy to be around! I just get excited or frustrated easily and swat and nip because of it, so my new family will just have to understand that and be willing to work with that behavior going into the future. I got pretty anxious when I was loose with other cats, so I'll either need really slow intros to a new cat friend or live as an only cat. If I sound like the cat for you, apply to meet Ryder!SPECIAL NOTES: I have a history of stress crystals in my urine, so I may benefit from stress medication and/or a prescription urinary diet."
+  },
+  {
+    "id": "57603635",
+    "name": "Sandra",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year  1 month 12 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "bf225010-0336-453f-b557-7ae176100422.jpg",
+      "bc8da657-7356-4720-96ba-0684fbe0c914.jpg",
+      "19ab75e6-77cc-47cc-80a7-b1aab588c9ca.jpg"
+    ],
+    "description": "Hello there, I'm Sandra! I'm a shy but sweet woman who is ready to find the perfect home for me! Living inside and around humans is a bit of a new experience for me, so I get pretty nervous with new people. But once I feel comfortable with you, I promise I'm a really sweet lady who loves pets! I'm just going to need a really patient, understanding family who is OK with it taking a while for me to feel fully comfortable. If you're willing to give this shy lady a chance, apply to meet Sandra!"
+  },
+  {
+    "id": "57334659",
+    "name": "Spyder",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "5 months 14 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Orange"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "7ad725b8-6a47-4fa3-8225-ceeb2b791906.jpg",
+      "29f74d96-1dca-403c-85f0-06e98a34a15f.jpg"
+    ],
+    "description": "From my foster mom: Likes belly rubs and has a purr like a motor. She loves to play and is a very good jumper and can regularly be found taking advantage of Marmot's soft fur with snuggles.SPECIAL NOTES: I'm bonded to my sister, Marmot!"
+  },
+  {
+    "id": "57877607",
+    "name": "Stewie",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "2 months  1 day",
+    "gender": "Male",
+    "size": "Medium",
+    "colors": [
+      "Brown"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "1a54c591-e35d-46c5-a07a-4db0a41d833f.jpg"
+    ]
+  },
+  {
+    "id": "57603537",
+    "name": "Tiana",
+    "breed": "Domestic Shorthair/Mix",
+    "age": "1 year  1 month 11 days",
+    "gender": "Female",
+    "size": "Medium",
+    "colors": [
+      "Grey",
+      "White"
+    ],
+    "declawed": false,
+    "imgIds": [
+      "17dc06db-e790-49cc-a801-7496dece59cb.jpg",
+      "ce9efdbe-ccbe-44d0-8494-71bd3bec30a6.jpg"
+    ],
+    "description": "Hey friends, my name is Tiana! I'm a chatty, friendly gal who can't wait to meet you! When I was first found, I wasn't doing very well at being an outdoor woman - I had a really bad cold and some tummy upset. I've gotten a lot better, but my new family will have to continue to help me by taking me to the vet, especially with my tummy issues. But what I lack in perfect health I make up for in friendliness! I love all sorts of pets and attention from people, and I let you know by telling you all about it! I've been around other cats, but I would also do fine as an only cat in my future home. If I sound like the lady for you, apply to meet Tiana!SPECIAL NOTES: I may need future treatment or a sensitive stomach diet to help with my GI upset."
+  }
+]
